@@ -1,0 +1,4 @@
+This is a source-code classification, NOT a standalone runnable application.
+PHP files mix markup and server-side logic. The original relative paths, links and includes may need adjustment when re-integrating.
+Keep original archive for running or reconstructing the application.
+Review all PHP configuration, secrets, personal data and database credentials before publishing publicly.
